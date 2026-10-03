@@ -1,40 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a4e,100:3b82f6&height=220&section=header&text=Soumik%20Ghosh&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SciML%20·%20Backend%20Developer%20·%20CFD%20%2B%20Deep%20Learning&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a4e,100:3b82f6&height=220&section=header&text=Soumik%20Ghosh&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=SciML%20·%20Quantitative%20Finance%20·%20Backend%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-```
-            ──────____________________________________________________
-        ────                                                          ────
-    ════                    ✈  AIRFOIL  ·  FLOW  ·  LEARN                  ════
-        ────____________________________________________________──────
-                                                                ────
-```
-
-*Teaching neural networks to predict what wind tunnels measure.*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Simulating+CFD+flow+fields+with+Neural+Networks;Quantitative+Finance+%26+Algorithmic+Trading;Pricing+derivatives+with+Stochastic+Calculus;Where+Navier-Stokes+meets+Black-Scholes" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-# Hey, I'm Soumik Ghosh 🧪
+# Hey, I'm Soumik Ghosh 🧪📈
 
-I sit at the intersection of **physics** and **deep learning** — building models that don't just fit curves, but respect the laws that govern them.
+I sit at the intersection of **physics, quantitative finance,** and **deep learning** — building models that don't just fit curves, but respect the underlying laws, whether they govern fluid dynamics or market microstructures.
 
-By day, I write backend systems. By night, I teach neural networks thermodynamics.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Karman_vortex_street_animation.gif" alt="CFD Flow Field Simulation" width="48%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Geometric_Brownian_Motion_paths.gif" alt="Quantitative Numerical Calculation" width="48%" />
+</p>
 
-```python
-class Me:
-    role     = "SciML Researcher · Backend Developer"
-    motto    = "If your model violates conservation of energy, it's wrong."
-    
-    languages = ["Python", "C++", "SQL"]
-    interests = [
-        "Physics-Informed Neural Networks",
-        "Turbulence modelling with deep learning",
-        "Quantitative finance",
-        "Anything with a PDE in it",
-    ]
-```
 
 ---
 
@@ -155,25 +139,13 @@ class Me:
 
 ---
 
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
 <div align="center">
 
 **Let's talk physics, ML, or both.**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumik-ghosh-434164377)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soumikghosh30.03.07@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BLACKNIGHT-cloud12)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a4e,100:3b82f6&height=120&section=footer" width="100%" />
 

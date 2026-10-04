@@ -125,17 +125,17 @@ I sit at the intersection of **physics, quantitative finance,** and **deep learn
 
 ---
 
-## 📚 Influences
+## 📚 Key References & Influences
 
 > *"The purpose of computing is insight, not numbers."* — Richard Hamming
 
-| | Paper / Book | Why It Matters |
+| | Reference | Significance |
 |--|---|---|
-| 📄 | Raissi et al. — *Physics-Informed Neural Networks* (2019) | The foundation of PINNs |
-| 📄 | Lu et al. — *DeepONet* (2021) | Operator learning breakthrough |
-| 📄 | Li et al. — *Fourier Neural Operator* (2020) | Learning in frequency space |
-| 📘 | Brunton & Kutz — *Data-Driven Science and Engineering* | The SciML bible |
-| 📘 | Wilmott — *Paul Wilmott on Quantitative Finance* | Quant fundamentals |
+| 📄 | **Raissi et al. (2019)** — *Physics-Informed Neural Networks* | Foundational methodology for embedding PDE constraints within neural network loss functions. |
+| 📄 | **Lu et al. (2021)** — *DeepONet* | Pioneering architecture for learning continuous nonlinear operators. |
+| 📄 | **Li et al. (2020)** — *Fourier Neural Operator* | Parameterizing integral kernels directly in Fourier space for mesh-independent PDE solving. |
+| 📘 | **Brunton & Kutz** — *Data-Driven Science and Engineering* | Comprehensive synthesis of machine learning integration with dynamical systems and control theory. |
+| 📘 | **Paul Wilmott** — *Paul Wilmott on Quantitative Finance* | Rigorous mathematical treatment of stochastic calculus, derivatives pricing, and quantitative modeling. |
 
 ---
 
@@ -150,4 +150,3 @@ I sit at the intersection of **physics, quantitative finance,** and **deep learn
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a4e,100:3b82f6&height=120&section=footer" width="100%" />
 
 </div>
-
